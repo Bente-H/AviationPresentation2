@@ -37,9 +37,9 @@ st.set_page_config(page_title="tevredenheid van een luchtmaatschappij", layout="
 row1_spacer1, row1_1, row1_spacer1 = st.columns((0.1, 3.2, 0.1))
 
 with row1_1:
-    st.title("Passagierstevredenheid")
+    st.title("Passagiers tevredenheid")
     st.write("""
-    Welom! Deze presentatie gaat over de passagierstevredenheid. Ik ben op het idee gekomen naar het lezen van een 
+    Welom! Deze presentatie gaat over de passagiers tevredenheid. Ik ben op het idee gekomen naar het lezen van een 
     artikel over hoe vliegtuigmaatschappij en luchthavens hun klanttevredenheid kunnen beïnvloeden. Het artikel:
     https://www.travelnext.nl/hoe-kunnen-luchtvaartmaatschappijen-en-vliegvelden-de-klanttevredenheid-verhogen-via-mobile/. 
     In het artikel hebben zij het ook over dat Inflight Entertainment beter moet zijn bij langere vluchten. Hier wil ik dan
