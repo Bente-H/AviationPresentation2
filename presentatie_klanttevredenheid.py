@@ -104,7 +104,7 @@ with row2_1:
        'Inflight wifi service', 'Inflight entertainment', 'Online support',
        'Ease of Online booking', 'On-board service', 'Leg room service',
        'Baggage handling', 'Checkin service', 'Cleanliness', 'Online boarding'], 
-                   barmode='group', histnorm='percent', text_auto=True)
+                   barmode='group', histnorm='percent')
     fig.update_layout({'updatemenus':[{'type': "dropdown",
                                   'x': 1.3,
                                   'y': 1.2,
